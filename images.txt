@@ -29,7 +29,6 @@ golang
 docker
 php
 mariadb
-consul
 haproxy
 traefik
 wordpress
@@ -131,3 +130,5 @@ ubuntu:16.04
 mysql
 sameersbn/gitlab
 microsoft/aspnet
+crazygit/openwrt-x86-64
+crazygit/lean-openwrt-x86-64
