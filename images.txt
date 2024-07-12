@@ -32,7 +32,6 @@ mariadb
 haproxy
 traefik
 wordpress
-elasticsearch
 openjdk
 ruby
 influxdb
