@@ -18,5 +18,6 @@ busybox
 ghcr.io/outlovecn/portainer-cn:main
 alpine
 hubdqzboy/mirror-hub:latest
+lscr.io/linuxserver/code-server
 crazygit/openwrt-x86-64
 crazygit/lean-openwrt-x86-64
